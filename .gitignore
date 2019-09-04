@@ -15,6 +15,7 @@
 # Ignore __init__.py files ?
 # __init__.py
 # Don't ignore makefiles, etc.
+!CMakeLists.txt
 !Makefile
 !*.mk
 !*.cmake
